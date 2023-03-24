@@ -1,0 +1,13 @@
+{
+    "name": "graph-sdk/{marinepolice.app}",
+    "type": "project",
+    "require": {
+        "facebook/php-business-sdk": "^8.0.3"
+    },
+    "authors": [
+        {
+            "name": "{Polize Box}",
+            "email": "{marinepolice.info@gmail.com}"
+        }
+    ]
+}
